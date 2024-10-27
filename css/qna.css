@@ -6,7 +6,7 @@
   text-align: center;
   border-radius: 20px;
   color: whitesmoke;
-  font-size: 4vw;
+  font-size: 3vw;
   width: 80%
 }
 
@@ -16,7 +16,7 @@
   display: block;
   width: 80%;
   border: 0px;
-  font-size: 4vw;
+  font-size: 3vw;
 }
 
 .answerList:hover, .answerList:focus {
