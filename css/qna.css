@@ -20,7 +20,7 @@
 }
 
 .answerList:hover, .answerList:focus {
-  background-color: pink;
+  background-color: black;
   color: whitesmoke;
 }
 
