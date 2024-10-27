@@ -6,7 +6,7 @@
   background-color: whitesmoke;
   text-align: center;
   border-radius: 20px;
-  font-size: 24px;
+  font-size: 4vw;
   width: 80%
 }
 
@@ -16,7 +16,7 @@
   display: block;
   width: 80%;
   border: 0px;
-  font-size: 20px;
+  font-size: 4vw;
 }
 
 .answerList:hover, .answerList:focus {
@@ -42,7 +42,7 @@
   background-color: #bf1218:
   /* Chrome10-25,Safari5.1-6 */
   background: linear-gradient(to bottom, #bf1218 100%, #bf1218 100%);
-  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */ 
+  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
   /* filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#febbbb', endColorstr='#ff5c5c', GradientType=0); */
   /* IE6-9 */
 }
